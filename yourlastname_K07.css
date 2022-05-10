@@ -1,0 +1,35 @@
+.Box1{
+    width: 50%;
+    text-align: justify;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #FFD;
+    border: 5px dashed;
+    border-color: #f4a460;
+    padding: 1.5em;
+}
+.Box2{
+    width: 25em;
+    border-top: 10px double;
+    border-bottom: 10px double;
+    background-color: #dff;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: 2em;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-bottom: 20px;
+}
+.Box3{
+    margin-left: 500px;
+    margin-right: 150px;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    width: 0;
+    border: 1em ridge;
+    color: lightsalmon;
+    padding: 30px;
+    background-color: burlywood;
+}
